@@ -1,0 +1,10 @@
+1;ABC-123; Toyota; RAV4; 5; 29000; Blanco
+2;DEF-456; Kia; Sorento; 7; 33000; Negro
+3;GHI-789; Honda; Pilot; 5; 28000; Azul
+4;JKL-012; Nissan; Murano; 5; 30000; Rojo
+5;MNO-345; Hyundai; Santa Fe; 7; 32000; Verde
+6;PQR-678; Ford; Explorer; 5; 36000; Plata
+7;STU-901; Mazda; CX-9; 5; 27000; Marrón
+8;VWX-234; Subaru; Outback; 5; 28500; Gris
+9;YZA-567; Jeep; Grand Cherokee; 7; 31000; Amarillo
+10;BCD-890; Chevrolet; Traverse; 5; 29500; Negro
